@@ -1,0 +1,71 @@
+JavaLearning/
+│
+├── 01_Basics/
+│   ├── HelloWorld.java
+│   ├── Expressions.java
+│   ├── InputOutput.java
+│   ├── TypeCasting.java
+│   └── Constants.java
+│
+├── 02_Conditionals/
+│   ├── IfElseExample.java
+│   ├── NestedIf.java
+│   ├── SwitchExample.java
+│   └── TernaryOperator.java
+│
+├── 03_Loops/
+│   ├── ForLoopExample.java
+│   ├── WhileLoopExample.java
+│   ├── DoWhileExample.java
+│   └── NestedLoops.java
+│
+├── 04_Methods/
+│   ├── MethodDefinition.java
+│   ├── MethodOverloading.java
+│   └── RecursionExample.java
+│
+├── 05_Arrays/
+│   ├── ArrayBasics.java
+│   ├── MultiDimensionalArray.java
+│   ├── ArrayClassUsage.java
+│   └── ArrayMethodsExample.java
+│
+├── 06_Constructors/
+│   ├── ConstructorBasics.java
+│   └── ParameterizedConstructor.java
+│
+├── 07_AccessModifiers/
+│   ├── PublicPrivateExample.java
+│   ├── ProtectedExample.java
+│   └── DefaultModifierExample.java
+│
+├── 08_ClassesAndObjects/
+│   ├── ClassObjectExample.java
+│   ├── EncapsulationExample.java
+│   ├── AbstractionExample.java
+│   └── GetterSetterExample.java
+│
+├── 09_Inheritance/
+│   ├── SuperSubClassExample.java
+│   ├── MethodOverridingExample.java
+│   ├── OverloadingVsOverriding.java
+│   └── PolymorphismExample.java
+│
+├── 10_AbstractAndInterfaces/
+│   ├── AbstractClassExample.java
+│   ├── InterfaceExample.java
+│   └── PrivateInterfaceMethods.java
+│
+├── 11_ExceptionHandling/
+│   ├── TryCatchExample.java
+│   ├── MultipleCatch.java
+│   ├── CustomException.java
+│   └── FinallyExample.java
+│
+├── 12_FileHandling/
+│   ├── FileReadExample.java
+│   ├── FileWriteExample.java
+│   ├── BufferedReaderExample.java
+│   └── FileExceptionHandling.java
+│
+└── README.md
